@@ -1,0 +1,32 @@
+category,featured,goal,id,tags,title,tools
+Docs,True,"Turn rough product notes into a clean prompt with architecture, pages, components, and seed data expectations.",pr-001,"['prompt', 'builder', 'reusable', 'workflow']",Convert app idea into Lovable build spec,"['Lovable', 'Markdown']"
+AI,True,Create a product requirements document from messy brainstorming notes and feature bullets.,pr-002,"['prompt', 'builder', 'reusable', 'workflow']",Generate PRD from founder notes,['Markdown']
+Quality,True,"Rewrite a feature list as user stories, acceptance criteria, and implementation notes.",pr-003,"['prompt', 'builder', 'reusable', 'workflow']",Turn rough feature list into clean user stories,"['Claude', 'Lovable']"
+Community,True,"Generate a README with setup, architecture, usage, deployment, and contribution sections.",pr-004,"['prompt', 'builder', 'reusable', 'workflow']",Create a production-grade README,"['Lovable', 'Markdown']"
+App building,True,Extract reusable UI and data components from a product description.,pr-005,"['prompt', 'builder', 'reusable', 'workflow']",Generate component architecture from app scope,['Markdown']
+Docs,True,Transform backend API docs into actionable frontend implementation tasks.,pr-006,"['prompt', 'builder', 'reusable', 'workflow']",Convert API docs into frontend task list,"['Claude', 'Lovable']"
+AI,True,Create a developer onboarding guide from a repository tree and key files.,pr-007,"['prompt', 'builder', 'reusable', 'workflow']",Produce onboarding guide from repo structure,"['Lovable', 'Markdown']"
+Quality,True,Turn a failing endpoint description into a stepwise diagnostic checklist.,pr-008,"['prompt', 'builder', 'reusable', 'workflow']",Generate debugging checklist for failed endpoint,['Markdown']
+Community,True,"Generate labels, empty states, CTA text, and microcopy for a dashboard.",pr-009,"['prompt', 'builder', 'reusable', 'workflow']",Create UX copy for SaaS dashboard,"['Claude', 'Lovable']"
+App building,True,"Create realistic sample content, categories, tags, and metadata for a community app.",pr-010,"['prompt', 'builder', 'reusable', 'workflow']",Generate seed data for community platform,"['Lovable', 'Markdown']"
+Docs,True,"Organize knowledge into categories, tags, and filterable content buckets.",pr-011,"['prompt', 'builder', 'reusable', 'workflow']",Convert knowledge base into searchable taxonomy,['Markdown']
+AI,True,"Build a learning plan from repo structure, examples, and implementation difficulty.",pr-012,"['prompt', 'builder', 'reusable', 'workflow']",Turn a GitHub repo into learning roadmap,"['Claude', 'Lovable']"
+Quality,True,"Generate an ADR with context, options, decision, consequences, and alternatives.",pr-013,"['prompt', 'builder', 'reusable', 'workflow']",Create architecture decision record draft,"['Lovable', 'Markdown']"
+Community,True,"Write test scenarios from a journey, including edge cases and success criteria.",pr-014,"['prompt', 'builder', 'reusable', 'workflow']",Generate QA scenarios from user flow,['Markdown']
+App building,True,Build a multi-step prompting chain for structured research and synthesis.,pr-015,"['prompt', 'builder', 'reusable', 'workflow']",Produce Claude prompt chain for research workflow,"['Claude', 'Lovable']"
+Docs,False,"Design fields, relations, and taxonomy for a prompt catalog.",pr-016,"['prompt', 'builder', 'reusable', 'workflow']",Build content model for prompts library,"['Lovable', 'Markdown']"
+AI,False,Draft community contribution rules aligned to product intent and quality.,pr-017,"['prompt', 'builder', 'reusable', 'workflow']",Create contribution guidelines from product goals,['Markdown']
+Quality,False,"Convert raw meeting notes into priorities, owners, milestones, and next actions.",pr-018,"['prompt', 'builder', 'reusable', 'workflow']",Turn meeting notes into execution plan,"['Claude', 'Lovable']"
+Community,False,Summarize a set of code changes into user-facing and technical release notes.,pr-019,"['prompt', 'builder', 'reusable', 'workflow']",Generate release notes from merged changes,"['Lovable', 'Markdown']"
+App building,False,Rewrite unstructured markdown into a clean documentation page.,pr-020,"['prompt', 'builder', 'reusable', 'workflow']",Convert rough markdown into polished docs page,['Markdown']
+Docs,False,"Generate issue templates for bugs, features, chores, and research.",pr-021,"['prompt', 'builder', 'reusable', 'workflow']",Create issue templates for engineering teams,"['Claude', 'Lovable']"
+AI,False,"Cluster support issues into themes, root causes, and product opportunities.",pr-022,"['prompt', 'builder', 'reusable', 'workflow']",Turn support tickets into product insights,"['Lovable', 'Markdown']"
+Quality,False,Translate a product spec into conversion-focused landing page copy.,pr-023,"['prompt', 'builder', 'reusable', 'workflow']",Create landing page copy from product spec,['Markdown']
+Community,False,"Compare multiple tech stacks across speed, cost, scalability, and complexity.",pr-024,"['prompt', 'builder', 'reusable', 'workflow']",Generate stack comparison matrix,"['Claude', 'Lovable']"
+App building,False,Convert a repeated process into a structured playbook.,pr-025,"['prompt', 'builder', 'reusable', 'workflow']",Turn a workflow into step-by-step playbook,"['Lovable', 'Markdown']"
+Docs,False,"Create concise labels, help text, and admin-facing messages.",pr-026,"['prompt', 'builder', 'reusable', 'workflow']",Draft internal tool admin copy,['Markdown']
+AI,False,Turn content requirements into a relational data model.,pr-027,"['prompt', 'builder', 'reusable', 'workflow']",Generate data schema from content types,"['Claude', 'Lovable']"
+Quality,False,Condense verbose docs into short structured cards.,pr-028,"['prompt', 'builder', 'reusable', 'workflow']",Rewrite long docs into scannable summary cards,"['Lovable', 'Markdown']"
+Community,False,Draft lightweight moderation copy for submissions and comments.,pr-029,"['prompt', 'builder', 'reusable', 'workflow']",Create community moderation policy text,['Markdown']
+App building,False,Define criteria to score outputs from AI prompts consistently.,pr-030,"['prompt', 'builder', 'reusable', 'workflow']",Generate prompt evaluation rubric,"['Claude', 'Lovable']"
+Docs,False,"Generate titles, descriptions, and social preview text.",pr-031,"['prompt', 'builder', 'reusable', 'workflow']",Create SEO metadata from content library,"['Lovable', 'Markdown']"

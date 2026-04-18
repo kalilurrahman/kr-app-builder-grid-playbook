@@ -1,0 +1,519 @@
+[
+  {
+    "id": "pr-001",
+    "title": "Convert app idea into Lovable build spec",
+    "goal": "Turn rough product notes into a clean prompt with architecture, pages, components, and seed data expectations.",
+    "category": "Docs",
+    "tools": [
+      "Lovable",
+      "Markdown"
+    ],
+    "featured": true,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-002",
+    "title": "Generate PRD from founder notes",
+    "goal": "Create a product requirements document from messy brainstorming notes and feature bullets.",
+    "category": "AI",
+    "tools": [
+      "Markdown"
+    ],
+    "featured": true,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-003",
+    "title": "Turn rough feature list into clean user stories",
+    "goal": "Rewrite a feature list as user stories, acceptance criteria, and implementation notes.",
+    "category": "Quality",
+    "tools": [
+      "Claude",
+      "Lovable"
+    ],
+    "featured": true,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-004",
+    "title": "Create a production-grade README",
+    "goal": "Generate a README with setup, architecture, usage, deployment, and contribution sections.",
+    "category": "Community",
+    "tools": [
+      "Lovable",
+      "Markdown"
+    ],
+    "featured": true,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-005",
+    "title": "Generate component architecture from app scope",
+    "goal": "Extract reusable UI and data components from a product description.",
+    "category": "App building",
+    "tools": [
+      "Markdown"
+    ],
+    "featured": true,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-006",
+    "title": "Convert API docs into frontend task list",
+    "goal": "Transform backend API docs into actionable frontend implementation tasks.",
+    "category": "Docs",
+    "tools": [
+      "Claude",
+      "Lovable"
+    ],
+    "featured": true,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-007",
+    "title": "Produce onboarding guide from repo structure",
+    "goal": "Create a developer onboarding guide from a repository tree and key files.",
+    "category": "AI",
+    "tools": [
+      "Lovable",
+      "Markdown"
+    ],
+    "featured": true,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-008",
+    "title": "Generate debugging checklist for failed endpoint",
+    "goal": "Turn a failing endpoint description into a stepwise diagnostic checklist.",
+    "category": "Quality",
+    "tools": [
+      "Markdown"
+    ],
+    "featured": true,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-009",
+    "title": "Create UX copy for SaaS dashboard",
+    "goal": "Generate labels, empty states, CTA text, and microcopy for a dashboard.",
+    "category": "Community",
+    "tools": [
+      "Claude",
+      "Lovable"
+    ],
+    "featured": true,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-010",
+    "title": "Generate seed data for community platform",
+    "goal": "Create realistic sample content, categories, tags, and metadata for a community app.",
+    "category": "App building",
+    "tools": [
+      "Lovable",
+      "Markdown"
+    ],
+    "featured": true,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-011",
+    "title": "Convert knowledge base into searchable taxonomy",
+    "goal": "Organize knowledge into categories, tags, and filterable content buckets.",
+    "category": "Docs",
+    "tools": [
+      "Markdown"
+    ],
+    "featured": true,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-012",
+    "title": "Turn a GitHub repo into learning roadmap",
+    "goal": "Build a learning plan from repo structure, examples, and implementation difficulty.",
+    "category": "AI",
+    "tools": [
+      "Claude",
+      "Lovable"
+    ],
+    "featured": true,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-013",
+    "title": "Create architecture decision record draft",
+    "goal": "Generate an ADR with context, options, decision, consequences, and alternatives.",
+    "category": "Quality",
+    "tools": [
+      "Lovable",
+      "Markdown"
+    ],
+    "featured": true,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-014",
+    "title": "Generate QA scenarios from user flow",
+    "goal": "Write test scenarios from a journey, including edge cases and success criteria.",
+    "category": "Community",
+    "tools": [
+      "Markdown"
+    ],
+    "featured": true,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-015",
+    "title": "Produce Claude prompt chain for research workflow",
+    "goal": "Build a multi-step prompting chain for structured research and synthesis.",
+    "category": "App building",
+    "tools": [
+      "Claude",
+      "Lovable"
+    ],
+    "featured": true,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-016",
+    "title": "Build content model for prompts library",
+    "goal": "Design fields, relations, and taxonomy for a prompt catalog.",
+    "category": "Docs",
+    "tools": [
+      "Lovable",
+      "Markdown"
+    ],
+    "featured": false,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-017",
+    "title": "Create contribution guidelines from product goals",
+    "goal": "Draft community contribution rules aligned to product intent and quality.",
+    "category": "AI",
+    "tools": [
+      "Markdown"
+    ],
+    "featured": false,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-018",
+    "title": "Turn meeting notes into execution plan",
+    "goal": "Convert raw meeting notes into priorities, owners, milestones, and next actions.",
+    "category": "Quality",
+    "tools": [
+      "Claude",
+      "Lovable"
+    ],
+    "featured": false,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-019",
+    "title": "Generate release notes from merged changes",
+    "goal": "Summarize a set of code changes into user-facing and technical release notes.",
+    "category": "Community",
+    "tools": [
+      "Lovable",
+      "Markdown"
+    ],
+    "featured": false,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-020",
+    "title": "Convert rough markdown into polished docs page",
+    "goal": "Rewrite unstructured markdown into a clean documentation page.",
+    "category": "App building",
+    "tools": [
+      "Markdown"
+    ],
+    "featured": false,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-021",
+    "title": "Create issue templates for engineering teams",
+    "goal": "Generate issue templates for bugs, features, chores, and research.",
+    "category": "Docs",
+    "tools": [
+      "Claude",
+      "Lovable"
+    ],
+    "featured": false,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-022",
+    "title": "Turn support tickets into product insights",
+    "goal": "Cluster support issues into themes, root causes, and product opportunities.",
+    "category": "AI",
+    "tools": [
+      "Lovable",
+      "Markdown"
+    ],
+    "featured": false,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-023",
+    "title": "Create landing page copy from product spec",
+    "goal": "Translate a product spec into conversion-focused landing page copy.",
+    "category": "Quality",
+    "tools": [
+      "Markdown"
+    ],
+    "featured": false,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-024",
+    "title": "Generate stack comparison matrix",
+    "goal": "Compare multiple tech stacks across speed, cost, scalability, and complexity.",
+    "category": "Community",
+    "tools": [
+      "Claude",
+      "Lovable"
+    ],
+    "featured": false,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-025",
+    "title": "Turn a workflow into step-by-step playbook",
+    "goal": "Convert a repeated process into a structured playbook.",
+    "category": "App building",
+    "tools": [
+      "Lovable",
+      "Markdown"
+    ],
+    "featured": false,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-026",
+    "title": "Draft internal tool admin copy",
+    "goal": "Create concise labels, help text, and admin-facing messages.",
+    "category": "Docs",
+    "tools": [
+      "Markdown"
+    ],
+    "featured": false,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-027",
+    "title": "Generate data schema from content types",
+    "goal": "Turn content requirements into a relational data model.",
+    "category": "AI",
+    "tools": [
+      "Claude",
+      "Lovable"
+    ],
+    "featured": false,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-028",
+    "title": "Rewrite long docs into scannable summary cards",
+    "goal": "Condense verbose docs into short structured cards.",
+    "category": "Quality",
+    "tools": [
+      "Lovable",
+      "Markdown"
+    ],
+    "featured": false,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-029",
+    "title": "Create community moderation policy text",
+    "goal": "Draft lightweight moderation copy for submissions and comments.",
+    "category": "Community",
+    "tools": [
+      "Markdown"
+    ],
+    "featured": false,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-030",
+    "title": "Generate prompt evaluation rubric",
+    "goal": "Define criteria to score outputs from AI prompts consistently.",
+    "category": "App building",
+    "tools": [
+      "Claude",
+      "Lovable"
+    ],
+    "featured": false,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  },
+  {
+    "id": "pr-031",
+    "title": "Create SEO metadata from content library",
+    "goal": "Generate titles, descriptions, and social preview text.",
+    "category": "Docs",
+    "tools": [
+      "Lovable",
+      "Markdown"
+    ],
+    "featured": false,
+    "tags": [
+      "prompt",
+      "builder",
+      "reusable",
+      "workflow"
+    ]
+  }
+]

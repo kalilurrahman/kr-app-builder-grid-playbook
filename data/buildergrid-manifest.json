@@ -1,0 +1,27 @@
+{
+  "repo": "kr-app-builder-grid-playbook",
+  "purpose": "Lovable-ready BuilderGrid app seed package",
+  "files": [
+    "README.md",
+    "buildergrid-lovable-prompt.md",
+    "buildergrid-markdown-pack.md",
+    "buildergrid-playbooks.csv",
+    "buildergrid-playbooks.json",
+    "buildergrid-playbooks.md",
+    "buildergrid-prompts.csv",
+    "buildergrid-prompts.json",
+    "buildergrid-prompts.md",
+    "buildergrid-schema.json",
+    "buildergrid-seed-index.json",
+    "buildergrid-stacks.csv",
+    "buildergrid-stacks.json",
+    "buildergrid-stacks.md",
+    "supabase-schema.md",
+    "supabase-seed.sql"
+  ],
+  "counts": {
+    "playbooks": 30,
+    "prompts": 31,
+    "stacks": 20
+  }
+}

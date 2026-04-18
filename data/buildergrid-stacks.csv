@@ -1,0 +1,21 @@
+auth,backend,bestFor,extras,featured,frontend,hosting,id,name,tradeoffs
+Clerk,Supabase,"Knowledge hubs, prompt libraries, internal copilots",Tailwind,True,Next.js,Vercel,st-001,AI Knowledge Hub Starter,Simple vs scalable
+Supabase Auth,Supabase,"Community directories, resources hubs, productivity apps",Tailwind,True,Lovable React,Lovable/Vercel,st-002,Lovable Community App Starter,DIY vs managed
+Clerk,Node or Supabase,B2B SaaS MVPs,Stripe,True,Next.js,Vercel,st-003,SaaS Starter for Indie Builders,Speed vs flexibility
+Auth optional,Markdown/MDX,Documentation and learning platforms,Search layer,True,Next.js or Astro,Vercel,st-004,Docs Portal Starter,Simple vs scalable
+Auth optional,FastAPI,AI search and Q&A apps,pgvector/Pinecone,True,Next.js,Vercel,st-005,RAG MVP Starter,DIY vs managed
+SSO-ready auth,Supabase,Ops tools and admin workflows,Tailwind,True,React,Vercel,st-006,Internal Tool Starter,Speed vs flexibility
+Quick auth,Firebase/Supabase,Fast prototypes under time pressure,Minimal analytics,True,React,Vercel,st-007,Full-Stack Hackathon Starter,Simple vs scalable
+Auth optional,Markdown + GitHub sync,Contributor ecosystems and public knowledge bases,Search and badges,True,Next.js,Vercel,st-008,Open Source Community Portal,DIY vs managed
+Auth optional,Markdown or headless CMS,"Portfolio, blog, and resource publishing",SEO tools,True,Astro,Netlify/Vercel,st-009,Solo Builder Content Engine,Speed vs flexibility
+Clerk,FastAPI,Developer-first API products,Mintlify/custom docs,True,Next.js,Vercel,st-010,API Product Starter,Simple vs scalable
+Optional auth,Python/Node,AI workflow testing and prompt experiments,Postgres,True,React,Vercel,st-011,Agent Workflow Lab,DIY vs managed
+Clerk,Supabase,Curated learning and implementation libraries,Meilisearch,True,Next.js,Vercel,st-012,Community-Led Learning Platform,Speed vs flexibility
+SSO auth,Supabase,Team dashboards and engineering ops,Charts and tables,False,Next.js,Vercel,st-013,Engineering Portal Starter,Simple vs scalable
+Auth optional,Postgres,Prompt testing and management,Analytics,False,React,Vercel,st-014,Prompt Ops Dashboard,DIY vs managed
+Clerk,Supabase,Curated content and review queues,Moderation workflow,False,Next.js,Vercel,st-015,Content Curation Engine,Speed vs flexibility
+Clerk,Supabase,Research notes and synthesis,Notion-like editor,False,Next.js,Vercel,st-016,Product Research Hub,Simple vs scalable
+Auth optional,Markdown + DB,Public repos with rich docs,Asset pipeline,False,Next.js,Vercel,st-017,Open Source Docs + Demo Starter,DIY vs managed
+Clerk,Supabase,Structured knowledge discovery,Search index,False,Next.js,Vercel,st-018,Knowledge Base + Search Starter,Speed vs flexibility
+Clerk,Supabase,Question-answer and discussion apps,Search and votes,False,React,Vercel,st-019,Community Q&A Starter,Simple vs scalable
+Clerk,Supabase,Reusable templates and downloads,Payments optional,False,Next.js,Vercel,st-020,Template Marketplace Starter,DIY vs managed
